@@ -1,6 +1,4 @@
 {
-  "versionCode": 15,
-  "versionName": "7.1",
-  "downloadUrl": "https://github.com/Pinwiru/enlacetv/raw/main/app-debug.apk",
-  "releaseNotes": "Ahora la app se convierte en un reproductor de TV"
+  "versionCode": 17,
+  "apkUrl": "https://raw.githubusercontent.com/TU_USUARIO/VivoPlayer-Updates/main/VivoPlayer_v2.apk"
 }
